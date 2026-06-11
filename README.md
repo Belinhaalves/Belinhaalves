@@ -10,4 +10,3 @@ Meu nome é isabela
 
 - @Belinha27090
 - 
-  ![](https://media.tenor.com/4_5TMHoXwXAAAAAi/hearts-pink-hearts.gif)
