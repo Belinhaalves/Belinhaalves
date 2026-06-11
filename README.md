@@ -1,12 +1,9 @@
-### Boas vindas ao meu perfil💜
+Boas-vindas ao meu perfil💜
 
-Meu nome é isabela
+Meu nome é isabela tenho 17 anos 
 
-- Estou estudando no [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
-- Você pode entrar em contato comigo
-- 00001093878800sp@al.educacao.sp.gov.br
-
-- @Belinha27090
-- 
+- Caso queria entrar em contato comigo esse é o meu email: isabelaalvesdasilva256@gmail.com
+  
+- Instragram: @Belinha27090
+-  Linkedin: https://www.linkedin.com/in/isabela-alves-da-silva-7a08622b3/
+- WhatsApp: 11 989740114
